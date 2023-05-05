@@ -2,7 +2,7 @@
 
 explicacion
 
-## subtitulo
+# subtitulo
 
 - item1
 - item2
